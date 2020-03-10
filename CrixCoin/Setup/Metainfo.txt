@@ -1,4 +1,4 @@
-Name of Quantlet: 'Setup'
+Name of Quantlet: CrixCoin_Setup
 
 Published in: DEDA_Class_2019SS
 
