@@ -1,4 +1,4 @@
-Name of Quantlet: 'Public_Private_Key'
+Name of Quantlet: CrixCoin_Public_Private_Key
 
 Published in: DEDA_Class_2019SS
 
