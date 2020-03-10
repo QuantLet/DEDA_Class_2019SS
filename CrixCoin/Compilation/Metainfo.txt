@@ -1,4 +1,4 @@
-Name of Quantlet: 'Compilation'
+Name of Quantlet: CrixCoin_Compilation
 
 Published in: DEDA_Class_2019SS
 
