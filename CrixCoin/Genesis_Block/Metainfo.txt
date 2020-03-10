@@ -1,4 +1,4 @@
-Name of Quantlet: 'Genesis_Block'
+Name of Quantlet: CrixCoin_Genesis_Block
 
 Published in: DEDA_Class_2019SS
 
