@@ -1,4 +1,4 @@
-Name of Quantlet: 'Branding'
+Name of Quantlet: CrixCoin_Branding
 
 Published in: DEDA_Class_2019SS
 
