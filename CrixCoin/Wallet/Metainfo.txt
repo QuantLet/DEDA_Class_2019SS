@@ -1,4 +1,4 @@
-Name of Quantlet: 'Wallet'
+Name of Quantlet: CrixCoin_Wallet
 
 Published in: DEDA_Class_2019SS
 
