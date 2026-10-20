@@ -9,7 +9,7 @@ Name of Quantlet: DEDA_Class_2019SS_Crypto_News_Sentiment_Sentiment_Scoring
 
 Published in: DEDA_Class_2019SS
 
-Description: Sentiment scoring tool which takes the output of the news source
+Description: Sentiment scoring tool which takes the output of the news source scraping tool and applies to them the unsupervised VADER and TextBlob sentiment methods.
 
 Keywords: Sentiment Analysis, VADER, TextBlob, Cryptocurrency
 
@@ -17,18 +17,8 @@ Author: Alex Truesdale
 
 Submitted: Wed. July 31 2019 by Alex Truesdale
 
-Datafiles: Input files:
-- bbc_bitcoin.csv,
-- cnn_bitcoin.csv,
-- nyt_bitcoin.csv,
-- reuters_bitcoin.csv,
+Datafiles: Input files: - bbc_bitcoin.csv, - cnn_bitcoin.csv, - nyt_bitcoin.csv, - reuters_bitcoin.csv, Output files: - bbc_bitcoin_scored.csv, - cnn_bitcoin_scored.csv, - nyt_bitcoin_scored.csv, - reuters_bitcoin_scored.csv
 
-Output files: 
-- bbc_bitcoin_scored.csv,
-- cnn_bitcoin_scored.csv,
-- nyt_bitcoin_scored.csv,
-- reuters_bitcoin_scored.csv
-
-See also: 1) plots/*.png
+See also: 1) plots/*.png 2) DEDA_Class_2019SS_Crypto_News_Sentiment_Scraping_Tool
 
 ```
