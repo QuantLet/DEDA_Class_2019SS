@@ -9,7 +9,7 @@ Name of QuantLet: Modeling_LSTM
 
 Published in: DEDA Class
 
-Description: Define a parameter grid for the LSTM and choose the optimal set of parameters that leads to a minimal
+Description: Define a parameter grid for the LSTM and choose the optimal set of parameters that leads to a minimal root-mean-squared error.
 
 Keywords: LSTM, parameter tuning, RMSE
 
