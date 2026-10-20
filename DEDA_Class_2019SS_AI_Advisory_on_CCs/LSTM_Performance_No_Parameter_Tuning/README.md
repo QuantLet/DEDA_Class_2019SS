@@ -9,7 +9,7 @@ Name of QuantLet: LSTM_Performance_No_Parameter_Tuning
 
 Published in: DEDA Class
 
-Description: Training the LSTM on the data of one of the Coins (ETH) and analysing the results on the test set without
+Description: Training the LSTM on the data of one of the Coins (ETH) and analysing the results on the test set without parameter tuning.
 
 Keywords: LSTM, ETH, results
 
