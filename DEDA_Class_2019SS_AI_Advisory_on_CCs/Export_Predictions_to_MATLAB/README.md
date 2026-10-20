@@ -9,7 +9,7 @@ Name of QuantLet: Export_Predictions_to_MATLAB
 
 Published in: DEDA Class
 
-Description: Split the entire dataset in two parts. the first one consists of all observations without the last 24 ones.
+Description: Split the entire dataset in two parts. the first one consists of all observations without the last 24 ones. It is used for the training process of LSTM with the optimal parameters. The second subset consists of the last 24 observations used for the prediction of the hourly returns in the next 24 hours. Once the predictions are generated for each of the coins, they are exported from python in order to be imported in MATLAB.
 
 Keywords: LSTM, predictions, export
 
